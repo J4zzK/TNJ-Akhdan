@@ -21,3 +21,9 @@ print(harga_produk)
 
 print(len(inventaris))
 print(len(karyawan))
+Level_7 = ["Akhdan", "Syauqi", "Alghar", "Zaki"]
+Level_8 = ["Mas Satria", "Mas Alfath", "Mas Banyu", "Mas Athar", "Mas Fauzan"]
+Level_9 = ["Mas Yafi", "Mas Ata", "Mas Dzaky", "Mas Zuf"]
+
+suku_techno = [Level_7, Level_8, Level_9]
+print(suku_techno)
